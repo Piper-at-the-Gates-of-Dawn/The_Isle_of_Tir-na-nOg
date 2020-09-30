@@ -18,3 +18,5 @@ Heightmap_x6_y6.umap filter=lfs diff=lfs merge=lfs -text
 Heightmap_x7_y4.umap filter=lfs diff=lfs merge=lfs -text
 Heightmap_x7_y5.umap filter=lfs diff=lfs merge=lfs -text
 Heightmap_x7_y6.umap filter=lfs diff=lfs merge=lfs -text
+heightmap_x0_y3.umap filter=lfs diff=lfs merge=lfs -text
+heightmap_x1_y1 filter=lfs diff=lfs merge=lfs -text
