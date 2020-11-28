@@ -2,3 +2,4 @@
 Heightmap_x1_y3.umap filter=lfs diff=lfs merge=lfs -text
 Heightmap_x2_y2.umap filter=lfs diff=lfs merge=lfs -text
 Heightmap_x6_y2.umap filter=lfs diff=lfs merge=lfs -text
+Heightmap_x5_y4.umap filter=lfs diff=lfs merge=lfs -text
