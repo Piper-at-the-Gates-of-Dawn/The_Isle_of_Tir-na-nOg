@@ -1,6 +1,6 @@
 {
 	"name": "The_Isle_of_Tir-na-nOg",
-	"description": "Total Conan Vanilla map rebuild:\n- many deserts turned into Savannah or even greener\n- The Nameless City is like an overgrown jungle city\n- Map will suggest this land is an Island\n- New areas: in the North East and in the South\n- Designed to work with its sister project: the Underdark\n- Map with regions to support conquest scenarios included\n- the combination of Underdark and the Isle of Tir-na-nOg will about double the playable area",
+	"description": "Total Conan Vanilla map rebuild:\n- many deserts turned into Savannah or even greener\n- The Nameless City is like an overgrown jungle city\n- Map will suggest this land is an Island\n- New areas: in the North East and in the South\n- Designed to work with its sister project: the Underdark\n- Map with 267 regions to support conquest scenarios included\n- the combination of Underdark and the Isle of Tir-na-nOg will about double the playable area",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
@@ -11,6 +11,6 @@
 	"steamPublishedFileId": "2241631223",
 	"steamVisibility": 2,
 	"folderName": "The_Isle_of_Tir-na-nOg",
-	"revisionNumber": 255795,
-	"snapshotId": 26931
+	"revisionNumber": 265775,
+	"snapshotId": 27373
 }
