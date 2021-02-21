@@ -1,12 +1,20 @@
 {
 	"name": "The_Isle_of_Tir-na-nOg",
 	"description": "Still in Beta-test!  let me be clear, this mod is 90% finished - besides bugfixing it is getting polished (meshes in the game do not always look like in the devkit) and populated. I give priority to bugfixing. Please realize that changing the vanilla map of exiles is like renovating and adding an addition to an old badly maintained house where you do NOT KNOW where the loadbearing walls are...  When I remove something, or add something, stuff can break somewhere else....   Migh be the reason that funcom has abandoned this map.\n\nTotal Conan Vanilla map rebuild:\n- many deserts turned into Savannah or even greener\n- The Nameless City is like an overgrown jungle city\n- Map will suggest this land is an Island\n- New areas: in the North East and in the South\n- Designed to work with its sister project: the Underdark\n- Map with 267 regions to support conquest scenarios included\n- the combination of Underdark and the Isle of Tir-na-nOg will about double the playable area\n\nmany thanks to Fluxmaster and the 7th Crest who helped me out!\n\nmod info can be found at: https://discord.gg/cYsQWejJ27\n\n",
+<<<<<<< HEAD
 	"changeNote": "This update should fix the 'west of Dragonmouth crash' as it removes the trees that had no collision.  ",
+=======
+	"changeNote": "changed character creation area to fit the Isle, bugfixes",
+>>>>>>> parent of 8f39d6b (mesh fixes)
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 2,
+<<<<<<< HEAD
 	"versionBuild": 4,
+=======
+	"versionBuild": 1,
+>>>>>>> parent of 8f39d6b (mesh fixes)
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2241631223",
 	"steamVisibility": 0,
