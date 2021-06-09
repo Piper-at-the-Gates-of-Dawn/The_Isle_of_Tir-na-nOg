@@ -1,16 +1,16 @@
 {
 	"name": "The_Isle_of_Tir-na-nOg",
 	"description": "Total Conan Vanilla map rebuild:\n- many deserts turned into Savannah or even greener\n- The Nameless City is like an overgrown jungle city\n- Map will suggest this land is an Island\n- New areas: in the North East and in the South\n- New Asagarth has neutral populace (like in Supermeru)\n- Designed to work with its sister project: the Underdark\n- Map with 267 regions to support conquest scenarios included\n- sun and moon rise in the east\n- admins: at X-292390.0  Y218820.0  Z-24050.0  you can find a hall to set up races and classes like so many servers do nowaydays.  Or you turn it into a small dungeon.\n- the combination of Underdark and the Isle of Tir-na-nOg will about double the playable area\n\nWARNING!  If you run this mod WITHOUT the Underdark-mod, then you will have to seal off the following holes:\n- Kings Niche - there is an opening all the way in the back\n- the Passage, coming from the jungle, the moment you come in the first great cave, turn left, opening is in the bottom\n\nmany thanks to Fluxmaster, without him, this mod would have failed.\n\nmore mod info, and there is a lot, can be found at: https://discord.gg/cYsQWejJ27\n\n",
-	"changeNote": "wow...\n\nall known, non funcom bugs, have been fixed.\nthe non harvestable fiber foliage in DW?   fixed\nthe floating grass at the place once known as Sepermeru harbor?  fixed\nall thanks to the amazing Fluxmaster who has forgotten more about mapmaking than I currently know.\nJust so you know fixing the DW area meant moving stuff around, something about the game engine not knowing where that area exactly was - sounded very technical to me.  Anyway, if the cliff under your house has shifted a bit... I am sorry, at least you can harvest now!\noh, and for good measure, I threw in some redwood trunks at both redwood forests.  I hope nobody's base got interrupted.\n\nThe desert got a new cactus species sprouting. And the swamp got some mangroves. Oh, made it a bit less bright in the jungle. \nsome pop added, some minor cosmetic fixes.\nNext I have to revisit some of my water-surfaces and then up to adding boats!\n\nNow if someone can find me swarms of flying, stinging mosquitos that spread malaria, a monsoon storm and a system that allows your character to be a member of one of the factions so that you can visit their camps without being attacked but attacked everywhere else. And crocs that swim and attack you only IN the water. And gigantic meat eating tentacle plants. Then yeah...  would get close to what could have been CE 2.0.   ",
+	"changeNote": "1.8.1 trying to fix some weird bugs at the ferry points.  Weird as in everything in the devkit and single player looks normal. I hope it was a bad cook.  Sorry for the inconvienence.\n",
 	"author": "",
 	"authorUrl": "",
 	"versionMajor": 1,
-	"versionMinor": 7,
-	"versionBuild": 2,
+	"versionMinor": 8,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "2241631223",
 	"steamVisibility": 0,
 	"folderName": "The_Isle_of_Tir-na-nOg",
-	"revisionNumber": 297252,
+	"revisionNumber": 298246,
 	"snapshotId": 29491
 }
